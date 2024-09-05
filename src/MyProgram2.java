@@ -6,6 +6,7 @@ class MyProgram2{
         while(num<=5){
             System.out.println(num);
             num++;
+
         }
     }
 

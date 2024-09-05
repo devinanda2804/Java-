@@ -7,5 +7,6 @@ class MyProgram{
             System.out.println(i);
             i++;
         }while(i<=5);
+
     }
 }
