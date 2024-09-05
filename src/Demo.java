@@ -3,6 +3,10 @@ class Demo{
         int a=10;
         int b=5;
         System.out.println("a+b=" +(a+b));
+        System.out.println("a-b=" +(a-b));
+        System.out.println("a*b=" +(a*b));
+        System.out.println("a/b=" +(a/b));
+        System.out.println("a%b=" +(a%b));
         System.out.println("Post increment:" +(a++));
         System.out.println("Pre increment:"+(++a));
     }
