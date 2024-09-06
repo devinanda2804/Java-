@@ -14,5 +14,6 @@ class ST{
         str.reverse();
         System.out.println(str);
         System.out.println(str.charAt(4));
+        System.out.println(str.capacity());
     }
 }
