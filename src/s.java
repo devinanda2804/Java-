@@ -18,5 +18,6 @@ class s{
         System.out.println("Uppercase of string:"+s.toUpperCase());
         System.out.println("Lowercase of string:"+s.toLowerCase());
         System.out.println("Replacing 'o' with 'a':"+s.replace("o","a"));
+
     }
 }
