@@ -3,6 +3,9 @@ import java.io.*;
 class Box{
     int length;
     int breadth;
+    /* @param l The length of the box.
+            * @param b The breadth of the box.
+            */
     Box(int l,int b){
         this.length=l;
         this.breadth=b;
@@ -10,6 +13,9 @@ class Box{
     Box(){
         length=breadth=0;
     }
+/*
+        * @return The area of the box, which is length * breadth.
+     */
 
     int area(){
         return length*breadth;
